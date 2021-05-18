@@ -1,0 +1,13 @@
+.backdrop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dialog {
+  border: 2px solid #000;
+  background-color: #fff;
+  padding: 16px 32px;
+  box-shadow: 2px;
+  text-align: center;
+}
